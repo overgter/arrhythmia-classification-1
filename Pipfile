@@ -9,13 +9,8 @@ name = "pypi"
 
 numpy = "*"
 scipy = "*"
-matplotlib = "*"
-ipython = "*"
 jupyter = "*"
-pandas = "*"
 scikit-learn = "*"
-wfdb = "*"
-
 
 [dev-packages]
 
